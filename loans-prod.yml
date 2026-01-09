@@ -1,5 +1,5 @@
 loans:
-  message: "Welcome to Eazybank loans related prod API's using github repo."
+  message: "Welcome to Eazybank loans related prod API's using github repo using refresh actuator api."
   contactDetails:
     name: "Aishwarya - Prod Owner"
     email: "aishwarya@eazybank.com"
