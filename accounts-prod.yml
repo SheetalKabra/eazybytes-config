@@ -1,5 +1,5 @@
 accounts:
-  message: "Welcome to Eazybank accounts related prod API's using github repo"
+  message: "Welcome to Eazybank accounts related prod API's using github repo using refresh api of actuator"
   contactDetails:
     name: "Reine Aishwarya - Prod Owner"
     email: "reineaishwarya@eazybank.com"
